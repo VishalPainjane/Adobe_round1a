@@ -1,0 +1,6 @@
+# blis==0.7.9
+# spacy
+
+spacy 
+spacy-layout
+# python -m spacy download en_core_web_sm
